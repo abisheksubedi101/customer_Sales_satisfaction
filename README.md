@@ -48,4 +48,21 @@ The company wants to understand:
 --
 
 ## Dashboard
+<img width="1365" height="569" alt="image" src="https://github.com/user-attachments/assets/c038bdfb-d42e-4b66-9734-a813f8b2fb95" />
+
+--
+
+## Skills Demonstrated
+. Data Cleaning
+. SQl
+. Data Analysis
+. Data Visualization
+. Dashboard Design
+. Business Insights
+
+--
+
+
+
+
 
