@@ -70,7 +70,7 @@ The company wants to understand:
 --
 # Repository Structure
 
-README.md
+  README.md
 . Sales_Satisfication_with_NaNs.csv
 . cleaned_sales_satisfaction.csv
 . my23rdprojec.ipynb
