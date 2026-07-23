@@ -48,7 +48,8 @@ The company wants to understand:
 --
 
 ## Dashboard
-<img width="1365" height="569" alt="image" src="https://github.com/user-attachments/assets/c038bdfb-d42e-4b66-9734-a813f8b2fb95" />
+<img width="1358" height="525" alt="image" src="https://github.com/user-attachments/assets/112105cb-cfb5-43e2-9be5-2075748ffe9f" />
+
 
 --
 
@@ -68,6 +69,12 @@ The company wants to understand:
 
 --
 # Repository Structure
+
+README.md
+. Sales_Satisfication_with_NaNs.csv
+. cleaned_sales_satisfaction.csv
+. my23rdprojec.ipynb
+. solvedsqlqueriesofcustumersatifaction.sql
 
 
 
