@@ -7,7 +7,7 @@ This projects analyze customer sales satisfaction to identify customersegment ti
 The company wants to understand:
 * what is the average custumer sales by segment?
 * How many percentage of customer are satisfied?
-* What is the rank of custumer in their segemet?
+* What is the highest satisfaction quartile by average sales?
 
   --
 
@@ -61,6 +61,13 @@ The company wants to understand:
 . Business Insights
 
 --
+## Key Insights
+. 25% is the average sales by custumer sagment.
+. 92.7% is the custumer conversion percentage by total custumer.
+. 40% is the highest satisfaction quartile by average sales.
+
+--
+# Repository Structure
 
 
 
